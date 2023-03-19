@@ -1,0 +1,2 @@
+# myDay
+Activity tracking app
